@@ -11,7 +11,7 @@ Simple and parallel versions: Compare the performance of different implementatio
 
 Comparison with TensorFlow: See how the Rust implementation performs against a popular deep-learning library.
 
-The simple version of the neural network achieved the fastest training time, followed by TensorFlow and the parallel versions. This was surprising, as the parallel versions were expected to be faster due to their ability to utilize multiple CPU cores.
+The simple version of the neural network achieved the fastest training time, followed by TensorFlow and the parallel versions. 
 
 ![image](https://github.com/cs-muic/2023-t1-finalproject-ann/assets/50020179/4faa3b76-3a37-4020-b05a-e6ea42b354ea)
 
